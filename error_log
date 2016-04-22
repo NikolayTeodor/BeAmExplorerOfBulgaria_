@@ -1,0 +1,6 @@
+[12-Mar-2016 17:57:15 Europe/Sofia] PHP Warning:  require_once(../conf.php): failed to open stream: No such file or directory in /home/pmglovec/public_html/explorer/site/index.php on line 5
+[12-Mar-2016 17:57:15 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '../conf.php' (include_path='.:/usr/local/php5.6/lib/php') in /home/pmglovec/public_html/explorer/site/index.php on line 5
+[12-Mar-2016 17:59:46 Europe/Sofia] PHP Warning:  require_once(../conf.php): failed to open stream: No such file or directory in /home/pmglovec/public_html/explorer/site/index.php on line 5
+[12-Mar-2016 17:59:46 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '../conf.php' (include_path='.:/usr/local/php5.6/lib/php') in /home/pmglovec/public_html/explorer/site/index.php on line 5
+[12-Mar-2016 18:01:32 Europe/Sofia] PHP Warning:  require_once(../conf.php): failed to open stream: No such file or directory in /home/pmglovec/public_html/explorer/site/index.php on line 5
+[12-Mar-2016 18:01:32 Europe/Sofia] PHP Fatal error:  require_once(): Failed opening required '../conf.php' (include_path='.:/usr/local/php5.6/lib/php') in /home/pmglovec/public_html/explorer/site/index.php on line 5

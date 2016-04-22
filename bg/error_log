@@ -1,0 +1,366 @@
+[12-Mar-2016 18:02:17 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:02:17 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:02:17 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:02:17 Europe/Sofia] PHP Warning:  include(switch/index/index.php): failed to open stream: No such file or directory in /home/pmglovec/public_html/explorer/site/bg/index.php on line 104
+[12-Mar-2016 18:02:17 Europe/Sofia] PHP Warning:  include(): Failed opening 'switch/index/index.php' for inclusion (include_path='.:/usr/local/php5.6/lib/php') in /home/pmglovec/public_html/explorer/site/bg/index.php on line 104
+[12-Mar-2016 18:04:25 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:04:25 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:04:25 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:05:50 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:05:50 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:05:50 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:05:56 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:05:56 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:05:56 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:06:15 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:06:15 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:06:15 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:06:56 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:06:56 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:06:56 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:07:17 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:07:17 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:07:17 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:07:18 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:07:18 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:07:18 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:07:18 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:07:18 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:07:18 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:02 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:08:02 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:02 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:02 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:08:02 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:02 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:03 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:08:03 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:03 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:03 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:08:03 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:03 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:05 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:08:05 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:05 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:05 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:08:05 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:05 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:10 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:08:10 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:08:10 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:09:16 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:09:16 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:09:16 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:10:57 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:10:57 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:10:57 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:11:08 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:11:08 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:11:08 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:11:25 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:11:25 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:11:25 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:12:51 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:12:51 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:12:51 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:13:32 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:14:15 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:14:15 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:14:15 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:17:04 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:17:04 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:17:04 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:18:36 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:18:36 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:18:36 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:19:43 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:19:43 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:19:43 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:20:05 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:20:05 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:20:05 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:21:39 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:21:39 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:21:39 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:25:02 Europe/Sofia] PHP Warning:  mysqli::mysqli(): (HY000/2003): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (110) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 18:26:38 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:26:38 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:26:38 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:50:57 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 18:50:57 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 18:50:57 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:00 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:00 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:00 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:12 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:12 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:12 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:13 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:13 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:13 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:15 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:15 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:15 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:15 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:15 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:15 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:17 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:17 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:17 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:18 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:18 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:18 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:20 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:20 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:20 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:38 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:38 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:38 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:45 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:38:45 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:38:45 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:39:52 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer.pmg-lovech.com/bg/' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:39:52 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:39:52 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:40:37 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer.pmg-lovech.com/bg/' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:40:37 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:40:37 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:41:24 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:41:24 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:41:24 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:41:27 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:41:27 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:41:27 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:42:04 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:42:04 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:42:04 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:42:07 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:42:07 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:42:07 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:42:47 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:42:47 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:42:47 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:43:24 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:43:24 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:43:24 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:43:27 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:43:27 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:43:27 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:43:36 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:43:36 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:43:36 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:44:04 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:44:04 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:44:04 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:44:07 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:44:07 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:44:07 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:44:16 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:44:16 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:44:16 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:44:56 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:44:56 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:44:56 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:19 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:45:19 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:19 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:45:24 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:13 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:47:13 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:13 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/bg/switch/register/index.php on line 84
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/bg/switch/register/index.php on line 84
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pmglovec/public_html/explorer/site/bg/switch/register/index.php on line 85
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/bg/switch/register/index.php on line 92
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/bg/switch/register/index.php on line 92
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:37 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:45 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:47:45 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:45 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:47:45 Europe/Sofia] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/bg/switch/login/index.php on line 23
+[12-Mar-2016 19:47:45 Europe/Sofia] PHP Warning:  mysql_query(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/bg/switch/login/index.php on line 23
+[12-Mar-2016 19:47:45 Europe/Sofia] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/pmglovec/public_html/explorer/site/bg/switch/login/index.php on line 24
+[12-Mar-2016 19:49:56 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:49:56 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:49:56 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:50:36 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:50:36 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:50:36 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:52:21 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:52:21 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:52:21 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:55:23 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:55:23 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:55:23 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:55:26 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:55:26 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:55:26 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:55:49 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:55:49 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:55:49 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:56:06 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:56:06 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:56:06 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:57:05 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:57:05 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:57:05 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:57:51 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:57:51 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:57:51 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:57:58 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:57:58 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:57:58 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:58:40 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:58:40 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:58:40 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:58:40 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'ftp.explorer.pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:58:40 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:58:40 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:59:13 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'ftp.explorer.pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 19:59:13 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 19:59:13 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:00:01 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'explorer.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:00:01 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:00:01 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:00:37 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:00:37 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:00:37 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:00:42 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:00:42 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:00:42 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:01:05 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer@pmg-lovech.com'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:01:05 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:01:05 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:01:06 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:01:06 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:01:06 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:01:14 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:01:14 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:01:14 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:01:44 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:01:44 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:01:44 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:19 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:02:19 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:19 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:19 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:02:19 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:19 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:28 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:02:28 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:28 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:52 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (2) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:02:52 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:52 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:59 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:02:59 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:59 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:59 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:02:59 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:02:59 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:06 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:06 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:06 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:10 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:10 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:10 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:10 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:10 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:10 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:11 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:11 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:11 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:11 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:11 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:11 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:13 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:13 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:13 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:18 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:18 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:18 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:20 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:20 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:20 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:20 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:20 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:20 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:23 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:23 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:23 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:23 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:03:23 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:03:23 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:04:31 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host '@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:04:31 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:04:31 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:05:23 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:05:33 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:05:33 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:05:33 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:05:33 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:05:33 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:05:37 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:05:37 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:05:40 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (2) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:05:52 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:06:28 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:06:32 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:06:34 Europe/Sofia] PHP Warning:  mysql_connect(): Unknown MySQL server host 'explorer@pmg-lovech.com' (0) in /home/pmglovec/public_html/explorer/site/conf.php on line 7
+[12-Mar-2016 20:06:40 Europe/Sofia] PHP Warning:  mysql_connect(): Access denied for user 'explorer'@'localhost' (using password: YES) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:06:40 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:06:40 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:08:00 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:08:00 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:08:00 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:08:06 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:08:06 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:08:06 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:09:10 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:09:10 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:09:10 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:09:13 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:09:13 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:09:13 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:09:54 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:09:54 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:09:54 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:10:09 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'ftp.pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:10:09 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:10:09 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:10:28 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:10:28 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:10:28 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:10:41 Europe/Sofia] PHP Warning:  mysql_connect(): Can't connect to MySQL server on 'pmg-lovech.com' (4) in /home/pmglovec/public_html/explorer/site/conf.php on line 2
+[12-Mar-2016 20:10:41 Europe/Sofia] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/pmglovec/public_html/explorer/site/conf.php on line 3
+[12-Mar-2016 20:10:41 Europe/Sofia] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/pmglovec/public_html/explorer/site/conf.php on line 3
